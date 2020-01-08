@@ -1,9 +1,4 @@
-﻿// const string img_path = R"(D:\workspace\matrix\StreetParkingSolution-myriad\project\PlateRegAlg\res\image\test.bmp)";
-// const string yolov3_weights = R"(D:\workspace\PyTorch-YOLOv3\weights\yolov3.weights)";
-// const string cfg_file = R"(D:\workspace\PyTorch-YOLOv3\config\yolov3.cfg)";
-
-
-#include <fstream>
+﻿#include <fstream>
 #include <opencv2/opencv.hpp>
 
 using namespace cv;
